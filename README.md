@@ -144,8 +144,8 @@ The dataset consists of 100,000 customer records with the following features:
 
 1. Clone the repository  
    ```bash
-   git clone https://github.com/your-username/customer-churn-prediction.git
-   cd customer-churn-prediction
+   git clone https://github.com/your-username/customer-churn-Risk-prediction-Model.git
+   cd customer-churn-Risk-prediction-Model
 
 
 
