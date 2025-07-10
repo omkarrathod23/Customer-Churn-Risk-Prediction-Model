@@ -11,6 +11,9 @@ import matplotlib.pyplot as plt
 from io import BytesIO
 import plotly.graph_objects as go
 
+if not hasattr(np, 'int'):
+    np.int = int
+
 # --- UI CONFIG ---
 st.set_page_config(
     page_title="Customer Churn Risk Prediction Model",
