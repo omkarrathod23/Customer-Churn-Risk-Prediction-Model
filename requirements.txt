@@ -1,0 +1,10 @@
+streamlit
+pandas
+numpy
+xgboost
+tensorflow
+joblib
+shap
+matplotlib
+plotly
+openpyxl 
