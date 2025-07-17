@@ -1,10 +1,9 @@
 streamlit
 pandas
-numpy==1.24.4
-xgboost==1.7.6
-tensorflow==2.14.0
+numpy
 joblib
-shap==0.41.0
+tensorflow
+shap
 matplotlib
 plotly
 openpyxl 
