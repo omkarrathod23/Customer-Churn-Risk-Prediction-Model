@@ -1,8 +1,9 @@
 streamlit
 pandas
-numpy
+numpy==1.23.5
+xgboost==1.7.0
+tensorflow==2.11.0
 joblib
-tensorflow
 shap
 matplotlib
 plotly
