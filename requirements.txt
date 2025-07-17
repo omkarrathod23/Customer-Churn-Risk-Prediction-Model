@@ -3,6 +3,7 @@ pandas
 numpy==1.23.5
 xgboost==1.7.0
 tensorflow==2.11.0
+protobuf==3.20.3
 joblib
 shap
 matplotlib
